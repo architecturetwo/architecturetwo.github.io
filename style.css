@@ -103,9 +103,9 @@
      -moz-appearance: none;
           appearance: none;
   background-color: transparent;
-  border: 2px solid #e74c3c;
+  border: 2px solid #000000;
   border-radius: 30em;
-  color: #e74c3c;
+  color: #000000;
   cursor: pointer;
   display: inline-block;
   font-size: 18px;
